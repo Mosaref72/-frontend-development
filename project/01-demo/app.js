@@ -1,5 +1,5 @@
-let color = document.getElementById("demo");
+// let color = document.getElementById("demo");
 
-color.style.backgroundColor="red"
+// color.style.backgroundColor="red"
 
 
