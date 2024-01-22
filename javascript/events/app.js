@@ -26,3 +26,4 @@ document.querySelector('.nameChange').addEventListener('change',() => {
     x.value = x.value.toUpperCase();
 })
 
+
