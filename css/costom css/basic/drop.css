@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul li{
+    display: none;
+    background-color: orange;
+    color: #fff;
+    padding: 6px 10px;
+}
+.drop:hover ul li{
+    display: block;
+}
+ul li:hover{
+    background-color: red;
+}
+
+
