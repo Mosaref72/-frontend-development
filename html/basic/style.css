@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#img-3d  {
+    width: 200px;
+    height: 300px;
+    object-fit: cover;
+}

@@ -1,0 +1,9 @@
+.container{
+    counter-reset: Section;
+}
+h3::before{
+    counter-increment: Section;
+    content: "Taskin " counter(Section) " : ";
+}
+
+
