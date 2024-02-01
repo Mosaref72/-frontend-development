@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    /* box-sizing: border-box; */
+  }
+label{
+    padding: 5px;
+    /* margin: 12px; */
+    font-weight: 800;
+}
+input[type="password"]{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+}
+.btn-containar{
+ display: flex;
+ justify-content: center;
+ text-align: center;
+}
+input[type="submit"] {
+  padding: 8px 25px;
+  background-color: #4CAF50;
+  color: white;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+}
