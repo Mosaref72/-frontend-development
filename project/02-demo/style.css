@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+img{
+    width: 130px;
+    height: 130px;
+    object-fit: cover;
+}
+.content-box{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.box-2 img{
+    float: left;
+}
+.box-1 img{
+    float: right;
+}
