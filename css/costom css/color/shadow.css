@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #232323;
+}
+.card {
+    height: 200px;
+    width: 200px;
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    text-transform: uppercase;
+    gap: 10px;
+}
+.card1{
+    box-shadow: 4px 3px 7px 9px rgba(255,0,0,0.4);
+}
